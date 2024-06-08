@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>May photos</title>
+      <link href="/2024/06/08/May-photos/"/>
+      <url>/2024/06/08/May-photos/</url>
+      
+        <content type="html"><![CDATA[<p>五月的一些照片</p><p><img src="/2024/06/08/May-photos/421488c314eec52c440f382bdf2937e.jpg" alt="421488c314eec52c440f382bdf2937e"></p><p><img src="/2024/06/08/May-photos/2bafb5ce54c9a89ca6885f70263f641.jpg" alt="2bafb5ce54c9a89ca6885f70263f641"></p><p><img src="/2024/06/08/May-photos/3410ef23ca064663cfe5ba949bb5a0b.jpg" alt="3410ef23ca064663cfe5ba949bb5a0b"></p><p><img src="/2024/06/08/May-photos/0a2a68e77e39b2deae21b3596947120.jpg" alt="0a2a68e77e39b2deae21b3596947120"></p><p><img src="/2024/06/08/May-photos/680c9f16569bf617eac4aa2b4ffa02f.jpg" alt="680c9f16569bf617eac4aa2b4ffa02f"></p><p><img src="/2024/06/08/May-photos/f18de8fd785e978bf7b9644f2f10127.jpg" alt="f18de8fd785e978bf7b9644f2f10127"></p><p><img src="/2024/06/08/May-photos/acbc1606edcee708d418d8e544e7bf9.jpg" alt="acbc1606edcee708d418d8e544e7bf9"></p><p><img src="/2024/06/08/May-photos/98a640d6b73483b2b8f3896649a625a.jpg" alt="98a640d6b73483b2b8f3896649a625a"></p><p><img src="/2024/06/08/May-photos/2c43c902fbd10e3ac6cf589d5248eba.jpg" alt="2c43c902fbd10e3ac6cf589d5248eba"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/06/08/hello-world/"/>
+      <url>/2024/06/08/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><ul><li>在md文件中，默认的根目录是 source 文件夹</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
