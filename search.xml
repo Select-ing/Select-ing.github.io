@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>leetcode-148</title>
+      <link href="/2024/08/27/leetcode-148/"/>
+      <url>/2024/08/27/leetcode-148/</url>
+      
+        <content type="html"><![CDATA[<h2 id="数组排序-原地改值"><a href="#数组排序-原地改值" class="headerlink" title="数组排序 + 原地改值"></a>数组排序 + 原地改值</h2><p>Time: $O(nlog(n))$<br>Space: $O(n)$</p><p>参考：<a href="https://blog.csdn.net/AF_MAX/article/details/120629822">C++ 标准库 ＜algorithm＞ 排序函数 sort</a></p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">struct</span> <span class="title class_">ListNode</span> &#123;</span><br><span class="line">    <span class="type">int</span> val;</span><br><span class="line">    ListNode *next;</span><br><span class="line">    <span class="built_in">ListNode</span>() : <span class="built_in">val</span>(<span class="number">0</span>), <span class="built_in">next</span>(<span class="literal">nullptr</span>) &#123;&#125;</span><br><span class="line">    <span class="built_in">ListNode</span>(<span class="type">int</span> x) : <span class="built_in">val</span>(x), <span class="built_in">next</span>(<span class="literal">nullptr</span>) &#123;&#125;</span><br><span class="line">    <span class="built_in">ListNode</span>(<span class="type">int</span> x, ListNode *next) : <span class="built_in">val</span>(x), <span class="built_in">next</span>(next) &#123;&#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function">ListNode* <span class="title">sortList</span><span class="params">(ListNode* head)</span> </span>&#123;</span><br><span class="line">        ListNode* iter_node = head;</span><br><span class="line">        vector&lt;<span class="type">int</span>&gt; arr;</span><br><span class="line">        <span class="keyword">while</span> (iter_node != <span class="literal">nullptr</span>) &#123;</span><br><span class="line">            arr.<span class="built_in">push_back</span>(iter_node-&gt;val);</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="built_in">sort</span>(arr.<span class="built_in">begin</span>(), arr.<span class="built_in">end</span>()); <span class="comment">// 默认升序</span></span><br><span class="line">        iter_node = head;</span><br><span class="line">        <span class="type">int</span> i = <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">while</span> (iter_node != <span class="literal">nullptr</span>) &#123;</span><br><span class="line">            iter_node-&gt;val = arr[i++];</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">return</span> head;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure><h2 id="归并"><a href="#归并" class="headerlink" title="归并"></a>归并</h2><p>参考<a href="https://leetcode.cn/problems/sort-list/solutions/492301/pai-xu-lian-biao-by-leetcode-solution/?envType=study-plan-v2&envId=top-100-liked">题解</a>。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 待补充 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>138. 随机链表的复制</title>
       <link href="/2024/08/25/leetcode-138/"/>
       <url>/2024/08/25/leetcode-138/</url>
